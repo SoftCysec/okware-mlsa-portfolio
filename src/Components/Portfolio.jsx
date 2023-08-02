@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/wp8199094.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "LinkedIn ICP Canister 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "LinkedIn ICP Canister is a decentralized Internet Computer (ICP) canister that implements basic LinkedIn-like functionalities.",
+    url: "https://github.com/SoftCysec/LinkedIn-ICP-Canister",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Livity Movie Shop 🎉",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Livity is a web application for buying and renting the latest movies from your favorite actors and directors.",
+    url: "https://github.com/SoftCysec/Livity-Movie-Shop",
   },
   {
-    title: "My Resume Site",
+    title: "Kenya GIS 🎉",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "GeoDjango-Kenya-Counties is a project that provides geographic data for Kenya's counties. It uses GeoDjango, a geographic framework for Django, to create and manage geographic data in a web application.",
+    url: "https://github.com/SoftCysec/Geo-Django-Kenya-Counties",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Disease Prediction using ML 🎉", 
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A web app for heart disease prediction, diabetes prediction and breast cancer prediciton using Machine Learning based on the Kaggle Datasets.",
+    url: "https://github.com/SoftCysec/Disease_Predict_Django",
   },
 ];
 
